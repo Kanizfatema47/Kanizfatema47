@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanizfatema47&label=Profile%20views&color=0e75b6&style=flat" alt="kanizfatema47" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kanizfatema.netlify.app/](https://kanizfatema.netlify.app/)
 
 - 💬 Ask me about **JavaScript,React JS, Node JS, MongoDB, Firebase, HTML5, CSS3, Web Development**
 
